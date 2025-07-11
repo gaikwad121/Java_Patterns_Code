@@ -1,3 +1,4 @@
+// Left Half Pyramid pattern
 import java.util.Scanner;
 public class LeftHalfPyramid{
 public static void main(String[]args){
