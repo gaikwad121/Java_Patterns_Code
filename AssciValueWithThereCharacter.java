@@ -1,6 +1,8 @@
 import java.util.Scanner;
 public class AssciValueWithThereCharacter{
 public static void main(String[]args){
+Scanner sc=new Scanner(System.in);
+System.out.println("Enter any num");
 //Scanner sc=new Scanner(System.in);
 //System.out.println("Enter any num");
 // char Alpha = sc.next().charAt(0);

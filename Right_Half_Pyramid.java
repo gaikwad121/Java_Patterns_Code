@@ -1,3 +1,4 @@
+
 // Right half triangle pattern
 import java.util.Scanner;
 public class Right_Half_Pyramid{
