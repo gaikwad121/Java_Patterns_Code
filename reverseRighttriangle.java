@@ -1,3 +1,4 @@
+// reverse Right triangle pattern
 import java.util.Scanner;
 public class reverseRighttriangle{
 public static void main(String[]args){
@@ -10,4 +11,5 @@ System.out.print("*");
 }
 System.out.println();
 }}
+}
 }
